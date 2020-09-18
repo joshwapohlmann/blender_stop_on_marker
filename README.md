@@ -1,4 +1,6 @@
-Stop on Marker Add-on for Blender
+# Stop on Marker Add-on for Blender
+
+**A blender addon stopping the animation playback if a special marker is reached.**
 
 ![Demonstrate usage](doc/images/stop_on_marker.gif)
 
